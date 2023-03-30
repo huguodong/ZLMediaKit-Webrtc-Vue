@@ -1,5 +1,5 @@
 {
-  "name": "ZLMediaKit-Webrtc-Vue",
+  "name": "ZLMediaKit-Webrtc-Vite",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite  --host",
